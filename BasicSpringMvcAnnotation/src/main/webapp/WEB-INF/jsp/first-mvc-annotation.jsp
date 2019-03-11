@@ -23,6 +23,10 @@
 <body>
 <p>  FIrst MVC program using annotation </p>
 <h1> sriman </h1>
+<<<<<<< HEAD
 <h1>manjeet</h1>
+=======
+<p>edited by pankaj</p>
+>>>>>>> fc5c7d21e6acce9cd5cd2c4449ec5ddd64abb5e6
 </body>
 </html>
